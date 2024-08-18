@@ -1,7 +1,9 @@
 # Forum Enhancement Project
 
 In collaboration with [Marina Gómez Rey](https://github.com/MarinaGRey), Sara Piñas and Ángela Durán.
+
 Subject: Machine Learning Applications
+
 Grade: 10/10
 
 ## Introduction
