@@ -1,5 +1,9 @@
 # Forum Enhancement Project
 
+In collaboration with (Marina Gómez Rey)[https://github.com/MarinaGRey], Sara Piñas and Ángela Durán.
+Subject: Machine Learning Applications
+Grade: 10/10
+
 ## Introduction
 Welcome to the Forum Enhancement project! In the digital age, enhancing user interaction on forum platforms is crucial for boosting engagement and user satisfaction. This project aims to tackle the challenges of organizing and extracting meaningful insights from diverse forum data. By leveraging various data analysis techniques and incorporating emojis to express sentiments, this project enhances forum functionality and user experience.
 
